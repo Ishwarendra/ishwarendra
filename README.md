@@ -1,16 +1,19 @@
-### Hi there 👋
+<div>
+    <h3 align="center" font-size="24"> Hi there! I'm Ishwarendra Jha </h3>
+</div>
 
-<!--
-**Ishwarendra/ishwarendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align ="center">     
+    <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarendra&theme=github-dark-blue" alt="ishwar" />    
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishwarendra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ishwar" /> </p>
+
+<!-- Statistics -->
+<h2 align="left">Stats 📊</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ishwarendra&show_icons=true&theme=github_dark" width=57.5% alt="Github Stats" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarendra&layout=compact&theme=github_dark&langs_count=8" width=41.5% alt="Github Stats" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishwarendra&layout=compact&theme=github_dark" alt="ishwarendra"> 
+</div>
