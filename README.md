@@ -1,5 +1,16 @@
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Ishwarendra Jha </h3>
+    <p align="center">
+        <a href="https://codeforces.com/profile/ishwarendra">
+            <img src="https://cp-logo.vercel.app/codeforces/ishwarendra?logo=true">
+        </a>
+        <a href="https://www.codechef.com/users/ishwarendra">
+            <img src="https://cp-logo.vercel.app/codechef/ishwarendra?logo=true">
+        </a>
+        <a href="https://atcoder.jp/users/ishwarendra">
+            <img src="https://cp-logo.vercel.app/atcoder/ishwarendra?logo=true">
+         </a>
+    </p>
 </div>
 
 ---
