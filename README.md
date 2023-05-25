@@ -2,14 +2,17 @@
     <h3 align="center" font-size="24"> Hi there! I'm Ishwarendra Jha </h3>
     <p align="center">
         <a href="https://codeforces.com/profile/ishwarendra">
-            <img src="https://cp-logo.vercel.app/codeforces/ishwarendra?logo=true">
+            <img src="https://cp-logo.vercel.app/codeforces/ishwarendra?logo=true" alt="codeforces max rating">
         </a>
         <a href="https://www.codechef.com/users/ishwarendra">
-            <img src="https://cp-logo.vercel.app/codechef/ishwarendra?logo=true">
+            <img src="https://cp-logo.vercel.app/codechef/ishwarendra?logo=true" alt="codechef max rating">
         </a>
         <a href="https://atcoder.jp/users/ishwarendra">
-            <img src="https://cp-logo.vercel.app/atcoder/ishwarendra?logo=true">
-         </a>
+            <img src="https://cp-logo.vercel.app/atcoder/ishwarendra?logo=true" alt="atcoder max rating">
+        </a>
+        <a href="https://wakatime.com/@c26d3330-004c-45a6-9162-8f0c4097cb0b">
+            <img src="https://wakatime.com/badge/user/c26d3330-004c-45a6-9162-8f0c4097cb0b.svg" alt="Total time coded since Aug 27 2022" />
+        </a>
     </p>
 </div>
 
