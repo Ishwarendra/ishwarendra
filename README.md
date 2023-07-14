@@ -2,7 +2,7 @@
     <h3 align="center" font-size="24"> Hi there! I'm Ishwarendra Jha </h3>
     <p align="center">
         <a href="https://codeforces.com/profile/ishwarendra">
-            <img src="https://raw.githubusercontent.com/Ishwarendra/cf-stats/c673abc30c1954f3fe41d4b601dbecbaa0ab1d1b/output/max_rating.svg">
+            <img src="https://raw.githubusercontent.com/Ishwarendra/cf-stats/c673abc30c1954f3fe41d4b601dbecbaa0ab1d1b/output/max_rating.svg?token=ASBMVKEANVGHESCOY5MNKI3EWEB3Y#gh-dark-mode-only" />
         </a>
         <a href="https://www.codechef.com/users/ishwarendra">
             <img src="https://cp-logo.vercel.app/codechef/ishwarendra?logo=true" alt="codechef max rating">
