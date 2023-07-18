@@ -2,7 +2,7 @@
     <h3 align="center" font-size="24"> Hi there! I'm Ishwarendra Jha </h3>
     <p align="center">
         <a href="https://codeforces.com/profile/ishwarendra">
-            <img src="https://raw.githubusercontent.com/Ishwarendra/cf-stats/c673abc30c1954f3fe41d4b601dbecbaa0ab1d1b/output/max_rating.svg?token=ASBMVKEANVGHESCOY5MNKI3EWEB3Y#gh-dark-mode-only" />
+            <img src=https://github.com/Ishwarendra/cf-stats/blob/main/output/max_rating.svg#gh-dark-mode-only" />
         </a>
         <a href="https://www.codechef.com/users/ishwarendra">
             <img src="https://cp-logo.vercel.app/codechef/ishwarendra?logo=true" alt="codechef max rating">
@@ -24,7 +24,7 @@
 </h2>
 <p align ="center" style="display: flex;">    
     <img width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarendra&theme=github-dark-blue" alt="ishwar" />    
-    <img height="300" src="https://raw.githubusercontent.com/Ishwarendra/cf-stats/c673abc30c1954f3fe41d4b601dbecbaa0ab1d1b/output/light_card.svg?token=ASBMVKCOZIBTJ7RUO5AS7MTEWEBS6#gh-dark-mode-only">
+    <img height="300" src="https://github.com/Ishwarendra/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only">
 </p>
 
 <!-- Statistics -->
