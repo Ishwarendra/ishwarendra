@@ -5,7 +5,7 @@
             <img src=https://github.com/Ishwarendra/cf-stats/blob/main/output/max_rating.svg#gh-dark-mode-only" />
         </a>
         <a href="https://www.codechef.com/users/ishwarendra">
-            <img src="https://cp-logo.vercel.app/codechef/ishwarendra?logo=true" alt="codechef max rating">
+            <img src="https://cp-logo.vercel.app/codechef/ishwarendra?logo=true" alt="codechef max rating [2069]">
         </a>
         <a href="https://atcoder.jp/users/ishwarendra">
             <img src="https://cp-logo.vercel.app/atcoder/ishwarendra?logo=true" alt="atcoder max rating">
