@@ -4,9 +4,6 @@
         <a href="https://codeforces.com/profile/ishwarendra">
             <img src=https://github.com/Ishwarendra/cf-stats/blob/main/output/max_rating.svg#gh-dark-mode-only" />
         </a>
-        <a href="https://www.codechef.com/users/ishwarendra">
-            <img src="https://cp-logo.vercel.app/codechef/ishwarendra?logo=true" alt="codechef max rating [2069]">
-        </a>
         <a href="https://atcoder.jp/users/ishwarendra">
             <img src="https://cp-logo.vercel.app/atcoder/ishwarendra?logo=true" alt="atcoder max rating">
         </a>
@@ -20,10 +17,10 @@
 
 <!-- Codeforces Stats -->
 <h2 align="left" height="30">Stats 📈 
-    <img src="https://komarev.com/ghpvc/?username=ishwarendra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ishwar" align="right" /> 
+    <img src="https://komarev.com/ghpvc/?username=ishwarendra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="right" /> 
 </h2>
 <p align ="center" style="display: flex;">    
-    <img width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarendra&theme=github-dark-blue" alt="ishwar" />    
+    <img width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarendra&theme=github-dark-blue" alt="github streak status" />    
     <img height="300" src="https://github.com/Ishwarendra/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only">
 </p>
 
