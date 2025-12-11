@@ -19,13 +19,16 @@
 <h2 align="left" height="30">Stats 📈 
     <img src="https://komarev.com/ghpvc/?username=ishwarendra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="right" /> 
 </h2>
-<p align ="center" style="display: flex;">    
-    <img width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarendra&theme=github-dark-blue" alt="github streak status" />    
+<div align ="center" style="text-align: center;">    
+    <img width="500" height="300" src="https://nirzak-streak-stats.vercel.app/?user=ishwarendra&theme=dark&hide_border=false" alt="github streak status" />
+</div>
+
+<div align ="center" style="text-align: center;">  
     <img height="300" src="https://github.com/Ishwarendra/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only">
-</p>
+</div>
 
 <!-- Statistics -->
-<h2 align="left">Github Stats 📊</h2>
+<!-- <h2 align="left">Github Stats 📊</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ishwarendra&show_icons=true&theme=github_dark" width=49.5% alt="Github Stats" align="center" style="margin-right:10px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarendra&layout=compact&theme=github_dark&langs_count=8" width=37.5% alt="Github Stats" align="center">  
+    <img src="" width=49.5% alt="Github Stats" align="center" style="margin-right:10px">
+</div> -->
