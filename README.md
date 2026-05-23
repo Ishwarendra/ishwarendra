@@ -20,7 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=ishwarendra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="right" /> 
 </h2>
 <div align ="center" style="text-align: center;">    
-    <img width="500" height="300" src="https://nirzak-streak-stats.vercel.app/?user=ishwarendra&theme=dark&hide_border=false" alt="github streak status" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ishwarendra&theme=dracula&border_radius=8&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 <div align ="center" style="text-align: center;">  
@@ -28,7 +28,5 @@
 </div>
 
 <!-- Statistics -->
-<!-- <h2 align="left">Github Stats 📊</h2>
-<div align="center">
-    <img src="" width=49.5% alt="Github Stats" align="center" style="margin-right:10px">
-</div> -->
+<!-- <h2 align="left">Github Stats 📊</h2> -->
+
